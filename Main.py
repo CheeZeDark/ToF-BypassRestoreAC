@@ -4,7 +4,7 @@ from time import sleep
 def Main():
     if(px.exists("HottaGame.exe")):
         os.system("HottaGame /launcher")
-        print("Successfully Bypassed... This Bypass is Created by RikkoMatsumatoOfficial")
+        print("Successfully Bypassed... This Bypass is Created by CheeZeDark")
         sleep(4)
         os._exit(433)
     else:
